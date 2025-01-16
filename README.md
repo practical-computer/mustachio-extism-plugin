@@ -19,7 +19,7 @@ The plugin has one action, `combine`, that accepts the following JSON input:
 ```json
 {
   "template": "Dear {{name}}, this is definitely a personalized note to you. Very truly yours, {{sender}}",
-  "model_json": "{\"name\": \"John\", \"sender\": \"Sally\"" 
+  "model_json": "{\"name\": \"John\", \"sender\": \"Sally\"}" 
 }
 ```
 
